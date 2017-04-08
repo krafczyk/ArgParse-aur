@@ -2,7 +2,7 @@
 # Contributor: Matthew Krafczyk <krafczyk.matthew@gmail.com>
 
 pkgname=ArgParse
-pkgver=0.5.2.2.g346c0ed
+pkgver=0.6.1.0.gde5c161
 pkgrel=1
 pkgdesc="ArgParse is a library which emulates the argparse python library"
 url="https://github.com/krafczyk/ArgParse"
